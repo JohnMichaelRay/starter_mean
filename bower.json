@@ -1,0 +1,27 @@
+{
+  "name": "starter_mean",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "JohnMichaelRay <johnmichaelray6@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "animate.css": "~3.4.0",
+    "angular": "~1.4.7",
+    "angular-ui": "~0.4.0",
+    "angular-ui-router": "~0.2.15",
+    "angular-route": "~1.4.7"
+  }
+}
